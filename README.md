@@ -110,3 +110,5 @@ This project is an ongoing exploration of TinyML, embedded systems and edge comp
 
 **Joseph Imobio**
 
+
+
