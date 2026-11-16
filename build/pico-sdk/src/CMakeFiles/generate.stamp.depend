@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Users/pc/.pico-sdk/sdk/2.3.1/src/CMakeLists.txt
+C:/Users/pc/.pico-sdk/sdk/2.3.1/src/cmake/on_device.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/src/cmake/rp2_common.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/src/rp2350-riscv.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/src/rp2350/hardware_regs/include/hardware/regs/dreq.h
+C:/Users/pc/.pico-sdk/sdk/2.3.1/src/rp2350/hardware_regs/include/hardware/regs/intctrl.h

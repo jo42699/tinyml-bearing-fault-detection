@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/pc/.pico-sdk/sdk/2.3.1/CMakeLists.txt
+C:/Users/pc/.pico-sdk/sdk/2.3.1/pico_sdk_init.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/src/common/pico_base_headers/generate_config_header.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/src/common/pico_base_headers/include/pico/version.h.in

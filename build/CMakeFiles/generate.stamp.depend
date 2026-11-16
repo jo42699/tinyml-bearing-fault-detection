@@ -1,0 +1,50 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakeASMInformation.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakeCInformation.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Compiler/GNU-ASM.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Compiler/GNU.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Compiler/MSVC.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/FetchContent.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Internal/CMakeASMLinkerInformation.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Internal/CMakeCLinkerInformation.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Linker/MSVC-C.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Linker/MSVC-CXX.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Linker/MSVC.cmake
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake
+C:/Users/pc/.pico-sdk/cmake/pico-vscode.cmake
+C:/Users/pc/.pico-sdk/picotool/2.3.1/picotool/picotoolConfig.cmake
+C:/Users/pc/.pico-sdk/picotool/2.3.1/picotool/picotoolConfigVersion.cmake
+C:/Users/pc/.pico-sdk/picotool/2.3.1/picotool/picotoolTargets-release.cmake
+C:/Users/pc/.pico-sdk/picotool/2.3.1/picotool/picotoolTargets.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/cmake/Platform/PICO.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/cmake/generic_board.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/cmake/pico_pre_load_platform.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/cmake/pico_pre_load_toolchain.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/cmake/pico_utils.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/cmake/preload/platforms/rp2350-riscv.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/cmake/preload/toolchains/pico_riscv_gcc.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/cmake/preload/toolchains/util/find_compiler.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/cmake/preload/toolchains/util/pico_gcc_common.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/cmake/preload/toolchains/util/pico_riscv_gcc_common.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/cmake/preload/toolchains/util/set_flags.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/pico_sdk_init.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/pico_sdk_version.cmake
+C:/Users/pc/Desktop/tinyml-lab/build/CMakeFiles/4.1.1-msvc1/CMakeASMCompiler.cmake
+C:/Users/pc/Desktop/tinyml-lab/build/CMakeFiles/4.1.1-msvc1/CMakeCCompiler.cmake
+C:/Users/pc/Desktop/tinyml-lab/build/CMakeFiles/4.1.1-msvc1/CMakeCXXCompiler.cmake
+C:/Users/pc/Desktop/tinyml-lab/build/CMakeFiles/4.1.1-msvc1/CMakeSystem.cmake
+C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/CMakeLists.txt
+C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/pico_sdk_import.cmake

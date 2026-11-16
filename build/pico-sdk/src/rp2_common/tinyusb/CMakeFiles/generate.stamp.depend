@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-4.1/Modules/CMakePrintHelpers.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/lib/tinyusb/hw/bsp/family_support.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/lib/tinyusb/hw/bsp/rp2040/boards/pico_sdk/board.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/lib/tinyusb/hw/bsp/rp2040/family.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/lib/tinyusb/hw/bsp/rp2040/pico_sdk_import.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/pico_sdk_init.cmake
+C:/Users/pc/.pico-sdk/sdk/2.3.1/src/rp2_common/tinyusb/CMakeLists.txt

@@ -1,0 +1,7 @@
+C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-tinyml/_deps/picotool/picotool.exe
+C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-tinyml/_deps/picotool/picotoolTargets.cmake
+C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-tinyml/_deps/picotool/picotoolTargets-release.cmake
+C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-tinyml/_deps/picotool/picotoolConfig.cmake
+C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-tinyml/_deps/picotool/picotoolConfigVersion.cmake
+C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-tinyml/_deps/picotool/enc_bootloader.elf
+C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-tinyml/_deps/picotool/enc_bootloader_mbedtls.elf

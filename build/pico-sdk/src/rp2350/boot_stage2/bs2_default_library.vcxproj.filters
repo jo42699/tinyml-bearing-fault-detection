@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pc\Desktop\tinyml-lab\build\CMakeFiles\921a2211b72cf50f638d548cbe380f60\bs2_default.bin.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\Desktop\tinyml-lab\build\CMakeFiles\921a2211b72cf50f638d548cbe380f60\bs2_default_padded.S.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\pc\.pico-sdk\sdk\2.3.1\src\rp2350\boot_stage2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\pc\Desktop\tinyml-lab\build\pico-sdk\src\rp2350\boot_stage2\bs2_default_padded.S" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{10000E8E-B5F8-32DE-9482-ACD7D51CEAC4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
