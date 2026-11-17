@@ -1,6 +1,9 @@
 #pragma once
 #include <cstdint>
 
+#define TEST_NAME "Healthy"
+#define EXPECTED_CLASS 0
+
 const int8_t test_input[1024] = {
     -1, 0, 1, -1, -3, -5, -6, -5, -5, -5, -5, -4, -1, 1, 1, -1,
     -2, -3, -2, -2, -3, -5, -5, -4, -3, -2, -1, -1, -1, 0, 1, 1,
@@ -67,9 +70,3 @@ const int8_t test_input[1024] = {
     -6, -6, -5, -4, -2, -1, 0, 0, 0, -1, -3, -5, -6, -7, -5, -4,
     -4, -3, -2, -1, -1, -2, -3, -5, -5, -5, -3, -1, 0, 1, 3, 3,
 };
-
-
-
-
-
-// healthy: 0, inner race: 1, ball fault: 2, outer race: 3

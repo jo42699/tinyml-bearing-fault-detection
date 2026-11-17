@@ -1223,3 +1223,13 @@
 5699	6718	8164823056102188	C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-arm/pico_blink_test.hex	7cce9eac5d426077
 5699	6718	8164823056102188	C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-arm/pico_blink_test.bin	7cce9eac5d426077
 5699	6718	8164823056102188	C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-arm/pico_blink_test.uf2	7cce9eac5d426077
+209	11533	8165259054227022	CMakeFiles/pico_blink_test.dir/inference.cpp.obj	c503e56fb11c6b2e
+11533	15790	8165259209973317	pico_blink_test.elf	7cce9eac5d426077
+11533	15790	8165259209973317	pico_blink_test.dis	7cce9eac5d426077
+11533	15790	8165259209973317	pico_blink_test.hex	7cce9eac5d426077
+11533	15790	8165259209973317	pico_blink_test.bin	7cce9eac5d426077
+11533	15790	8165259209973317	pico_blink_test.uf2	7cce9eac5d426077
+11533	15790	8165259209973317	C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-arm/pico_blink_test.dis	7cce9eac5d426077
+11533	15790	8165259209973317	C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-arm/pico_blink_test.hex	7cce9eac5d426077
+11533	15790	8165259209973317	C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-arm/pico_blink_test.bin	7cce9eac5d426077
+11533	15790	8165259209973317	C:/Users/pc/Desktop/tinyml-lab/pico_blink_test/build-arm/pico_blink_test.uf2	7cce9eac5d426077
