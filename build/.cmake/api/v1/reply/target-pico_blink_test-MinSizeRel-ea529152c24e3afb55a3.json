@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Debug/pico_blink_test.elf"
+			"path" : "MinSizeRel/pico_blink_test.elf"
 		}
 	],
 	"backtrace" : 1,
@@ -123,7 +123,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-mcpu=hazard3-rp2350  -mstrict-align -ftls-model=local-exec -Og -std:c11"
+					"fragment" : "-mcpu=hazard3-rp2350  -mstrict-align -ftls-model=local-exec -g -std:c11"
 				},
 				{
 					"backtrace" : 5,
@@ -875,7 +875,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-mcpu=hazard3-rp2350  -mstrict-align -ftls-model=local-exec -Og -std:c++17"
+					"fragment" : "-mcpu=hazard3-rp2350  -mstrict-align -ftls-model=local-exec -g -std:c++17"
 				},
 				{
 					"backtrace" : 5,
@@ -1573,7 +1573,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-mcpu=hazard3-rp2350  -mstrict-align -ftls-model=local-exec -Og -g"
+					"fragment" : "-mcpu=hazard3-rp2350  -mstrict-align -ftls-model=local-exec -g -Os -DNDEBUG"
 				},
 				{
 					"backtrace" : 5,
@@ -2254,11 +2254,11 @@
 			"id" : "bs2_default_library::@9e89cb6b53d747b62405"
 		},
 		{
-			"backtrace" : 5,
-			"id" : "pico-tflmicro::@4fe2892e7728728a6c49"
+			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+			"backtrace" : 5,
+			"id" : "pico-tflmicro::@4fe2892e7728728a6c49"
 		}
 	],
 	"id" : "pico_blink_test::@6890427a1f51a3e7e1df",
@@ -2267,7 +2267,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-mcpu=hazard3-rp2350  -mstrict-align -ftls-model=local-exec -Og",
+				"fragment" : "-mcpu=hazard3-rp2350  -mstrict-align -ftls-model=local-exec -g",
 				"role" : "flags"
 			},
 			{
@@ -2276,7 +2276,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "-Map=C:/Users/pc/Desktop/tinyml-lab/build/Debug/pico_blink_test.elf.map",
+				"fragment" : "-Map=C:/Users/pc/Desktop/tinyml-lab/build/MinSizeRel/pico_blink_test.elf.map",
 				"role" : "flags"
 			},
 			{
@@ -2391,7 +2391,7 @@
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "lib\\pico-tflmicro\\Debug\\libpico-tflmicro.a",
+				"fragment" : "lib\\pico-tflmicro\\MinSizeRel\\libpico-tflmicro.a",
 				"role" : "libraries"
 			}
 		],

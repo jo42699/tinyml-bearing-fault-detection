@@ -8,6 +8,10 @@ The aim is to investigate how machine learning can be deployed on resource-const
 
 The project combines embedded software development, machine learning integration and hardware-software interaction.
 
+
+
+![Raspberry Pi Pico project setup](images/IMG_7967.jpeg)
+
 ## Technologies & Tools
 
 - **Hardware:** Raspberry Pi Pico (RP2040)
