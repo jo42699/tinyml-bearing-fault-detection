@@ -13,7 +13,7 @@ The project combines embedded software development, machine learning integration
 ![Raspberry Pi Pico project setup](images/IMG_7967.jpeg)
 
 ## Technologies & Tools
-
+-
 - **Hardware:** Raspberry Pi Pico (RP2040)
 - **Machine Learning:** TensorFlow Lite for Microcontrollers
 - **Programming Languages:** C and C++
