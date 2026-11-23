@@ -5,7 +5,7 @@
 		"commands" : [],
 		"files" : 
 		[
-			"C:/Users/pc/.pico-sdk/sdk/2.3.1/CMakeLists.txt"
+			"CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -17,22 +17,28 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "bs2_default_library::@9e89cb6b53d747b62405"
-		},
-		{
 			"id" : "bs2_default::@9e89cb6b53d747b62405"
 		},
 		{
+			"id" : "bs2_default_library::@9e89cb6b53d747b62405"
+		},
+		{
+			"id" : "pico_blink_test::@6890427a1f51a3e7e1df"
+		},
+		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "pico-tflmicro::@4fe2892e7728728a6c49"
 		}
 	],
-	"id" : "ALL_BUILD::@61333d890cfc0aafb00f",
+	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
 	"isGeneratorProvided" : true,
 	"name" : "ALL_BUILD",
 	"paths" : 
 	{
-		"build" : "pico-sdk",
-		"source" : "C:/Users/pc/.pico-sdk/sdk/2.3.1"
+		"build" : ".",
+		"source" : "."
 	},
 	"sources" : [],
 	"type" : "UTILITY"
