@@ -174,3 +174,8 @@ extern "C" int run_bearing_inference(void)
 
     return predicted_class;
 }
+
+
+
+
+
